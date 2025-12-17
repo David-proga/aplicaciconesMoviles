@@ -10,6 +10,6 @@ Ruting Inteligente: Cálculo de rutas y navegación paso a paso hacia el punto d
 👥 Autores
 Desarrollado con pasión por la tecnología y el medio ambiente por:
 
-Giovanni Diaz - [Rol/Enlace al perfil]
+Giovanni Diaz 
 
-David Sereño - [Rol/Enlace al perfil]
+David Sereño 
