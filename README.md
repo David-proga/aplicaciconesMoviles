@@ -1,17 +1,15 @@
-# aplicaciconesMoviles
+Reciclaje Feliz es una aplicación basada en geolocalización diseñada para cerrar la brecha entre la intención de reciclar y la ejecución efectiva del reciclaje urbano. El proyecto provee una interfaz optimizada para conectar a los usuarios con la infraestructura de gestión de residuos disponible en su ciudad.
 
-Reciclaje Feliz es una solución tecnológica innovadora diseñada para optimizar y fomentar la gestión de residuos urbanos. El objetivo principal es cerrar la brecha entre la intención de reciclar y la acción efectiva, proporcionando a los usuarios una herramienta digital intuitiva basada en geolocalización de los puntos de reciclaje.
+🚀 Características Clave
+Mapa Interactivo (Live Tracking): Renderizado en tiempo real de la posición del usuario y los puntos de interés cercanos.
 
-Funcionalidades Clave:
+Filtrado de Puntos Limpios: Sistema de búsqueda y clasificación de puntos de reciclaje por categoría de material (Plástico, Vidrio, Papel, Pilas, Electrónicos).
 
-Mapa Interactivo: Visualización en tiempo real de la ubicación del usuario y su entorno.
+Ruting Inteligente: Cálculo de rutas y navegación paso a paso hacia el punto de entrega seleccionado.
 
-Localización de Puntos Limpios: Identificación inmediata de los puntos de reciclaje más cercanos, filtrados por tipo de material (plástico, vidrio, papel, pilas, etc.).
+👥 Autores
+Desarrollado con pasión por la tecnología y el medio ambiente por:
 
-Rutas Inteligentes: Integración de navegación para guiar al usuario hacia el punto de entrega más conveniente.
+Giovanni Diaz - [Rol/Enlace al perfil]
 
-Equipo de Desarrollo: Este proyecto ha sido ideado y desarrollado por un equipo comprometido con la sustentabilidad y la tecnología:
-
-Giovanni Diaz
-
-David Sereño
+David Sereño - [Rol/Enlace al perfil]
